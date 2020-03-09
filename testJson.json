@@ -2,8 +2,8 @@
   "test" :
   [
     {
-      name: "abhi",
-      age : 24
+      "name": "abhi",
+      "city": "Bengaluru"
     }
   ]
 }
